@@ -4,7 +4,7 @@ As an academic community devoted to the life of the mind, Middlebury requires of
 
 ### Honor Code Pledge
 
-The Honor Code pledge reads as follows: "I have neither given nor received unauthorized aid on this assignment." Please adhere to it and sign the Honor Code pledge on all problem sets.  
+The Honor Code pledge reads as follows: "I have neither given nor received unauthorized aid on this assignment." Please adhere to it and sign the Honor Code pledge on all writing assignments.  
 
 ### Accommodations
 
