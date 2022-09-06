@@ -1,4 +1,6 @@
 
+The table below describes the four components of your grade and their weights. During the semester, we will discuss standards for evaluating each component. I will add these standards to this syllabus after we have discussed them.  
+ 
 <br>
 
 | COMPONENT | EXPECTATIONS | WEIGHT |

@@ -1,3 +1,5 @@
+The task tags link to fuller descriptions. Please note that the two types of tasks are somewhat arbitrary, as any _writing_ task will of course require some reading and each _reading_ task will require some writing (a short synthesis, a set of questions, etc). The main difference between the two is that _writing_ tasks will involve some intentional discussion on writing as a purposeful object, while in _reading_ tasks the writing is simply a means to thinking or discussing the material.     
+
 _Please note: I will add links for tasks to this calendar as the semester progresses._
 
 <br>
@@ -7,7 +9,7 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 | | | |
 | PART 1 | CAMPUS TRANSECTS |
 | | | |
-| 0913 |	Introduction | [_write_](tasks/0913.md)  |
+| 0913 |	Introduction | [_warm up_](tasks/0913.md)  |
 | 0915 |	Campus change from 1942 - 2022 <br>_Groundtruth_| [_read_](tasks/0915.md) |
 | 0920 |	The Oregon Experiment | [_write_](tasks/0920.md) |  
 | 0922 |	Guidelines for Middlebury College: A handbook for Campus Development<br>_Groundtruth_| _read_ |
@@ -16,7 +18,7 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 | 1004 |	Library day |
 | 1006 |	_Middlebury walking tour_ | _read_
 | 1011 |	Sustainability guidelines (2007) & Master Plan Update and Retrospective (2017) | _read_ |
-| 1013	| _Ground truth_ | _write_|
+| 1013	| _Ground truth_ | _read_|
 | 1018	| Writing workshop | _write_ |
 | 1020	| _Campus walking tour_ | _present_ |
 | | | |
