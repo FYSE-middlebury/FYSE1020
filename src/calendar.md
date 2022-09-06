@@ -7,6 +7,7 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 | DATE | TOPICS | TASKS |  
 |:---:|:---| :---: |
 | | | |
+| 0906-07 | Advising meetings | [Please sign up here](https://docs.google.com/spreadsheets/d/1gGNkSNEeK4OoUGTZX0TrPWZQIcDbDBXsQImAaenc6sE/edit?usp=sharing){target=_blank} |
 | PART 1 | CAMPUS TRANSECTS |
 | | | |
 | 0913 |	Introduction | [_warm up_](tasks/0913.md)  |
