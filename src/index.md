@@ -13,17 +13,6 @@ _Aerial view of Middlebury College in 1941_<br>
 _UVM Landscape Change Program, courtesy of Henry Sheldon Museum_
 
 <br>
-ROUGH SYLLABUS
-<br><br>
-
-### Locations  
-
-| PLACE | ADDRESS |  
-| ---: | :--- |
-| _classroom_ | MBH 530 |
-| _office_ | MBH 635 |
-| _email_ | jhowarth@middlebury.edu |
-| _zoom_ | [link](https://middlebury.zoom.us/my/jhowarth?pwd=RzF3SzVvSTI3UTFSRlJuRWF2eFVSdz09){target=_blank} |
 
 ### Seminar meetings
 
@@ -40,6 +29,17 @@ ROUGH SYLLABUS
 | Tue | 12:30 - 2:00 pm | MBH 635 |
 | Wed | 11:30 - 1:00 pm | MBH 635 |  
 
-### How to refer to me:
-_Name:_ You may call me Jeff or Professor, whichever you prefer.<br>
-_Pronouns:_ he/him/his 
+### Locations  
+
+| PLACE | ADDRESS |  
+| ---: | :--- |
+| _classroom_ | MBH 530 |
+| _office_ | MBH 635 |
+| _email_ | jhowarth@middlebury.edu |
+| _zoom_ | [link](https://middlebury.zoom.us/my/jhowarth?pwd=RzF3SzVvSTI3UTFSRlJuRWF2eFVSdz09){target=_blank} |
+
+
+
+### How to refer to me  
+You may call me Jeff or Professor, whichever you prefer.<br><br>
+_he/him/his_

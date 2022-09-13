@@ -132,11 +132,15 @@ nav:
   - Calendar: calendar.md
   - Evaluation: evaluation.md
   - Policies: policies.md
-  - Tasks:
-    - 0913: tasks/0913.md
-    - 0915: tasks/0915.md
-    - 0920: tasks/0920.md
-    - 0922: tasks/0922.md
+  - Writing assignments:
+    - Letter to future self: writing/letter.md
+    - Book review: writing/review.md
+    - Plan critique: writing/crit.md
+    - Narrating a figure: writing/figure.md
+    - Multimedia presentation: writing/presentation.md
+  - Other tasks:
+    - Image interpretation: tasks/image.md
+
 
 #  - Contributing: contributing.md
 #  - License: license.md
