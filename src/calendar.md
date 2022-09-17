@@ -12,11 +12,11 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 | 0915 |	Campus change from 1942 - 2022 <br>_Field activity_ | [_Image interpretation_](tasks/image.md)
 | 0920 |	_The Oregon Experiment_ (part 1) | [_Discussion prep_](writing/review.md#discussion-prep) |
 | 0922 |	_The Oregon Experiment_ (part 2)<br>_Field activity_ | [_Discussion prep_](writing/review.md#discussion-prep) |
-| 0927 |	Writing workshop |  [_1st draft book review due_](writing/review.md#first-draft) 
+| 0927 |	Writing workshop |  [_1st draft book review due_](writing/review.md#first-draft)
 | 0929 |	Guidelines for Middlebury College: A handbook for Campus Development<br>_Field activity_| _Discussion prep_ |
 | 1004 |	Writing workshop |  [_2nd draft book review due_](writing/review.md#first-revisions) |  
 | 1006 |	Library with Ryan Clement (am)<br>_The social life of small urban spaces_ (pm)  | [_Final draft book review due_](writing/review.md#first-revisions) |
-| 1011 |	Middlebury College Master Plan (2000 & 2007) | _Introduce critique assignment_ |
+| 1011 |	Middlebury College Master Plan (2000 & 2007) | _Introduce literature review assignment_ |
 | 1013 |  Sustainability guidelines (2007) & Master Plan Update and Retrospective (2017)<br>_Field activity_ | _Discussion prep_ |
 | 1018 |  Writing workshop | _1st draft due_|
 | 1020 |  Special collections (am) | _Final draft due_ |
