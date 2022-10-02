@@ -15,7 +15,8 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 | 0927 |	Writing workshop |  [_1st draft book review due_](writing/review.md#first-draft)<br><br>[DROPBOX](https://docs.google.com/forms/d/e/1FAIpQLSf4iRlEuOLAZ-hyPw23tfmSBOw6D-iEDCyZbURIVqxZl8l6jA/viewform?usp=sf_link){target=_blank} |
 | 0929 |	Writing consultations | [Meeting schedule](https://docs.google.com/spreadsheets/d/1vbU7Wk_AZOOkbZG4I3G6oTEnqyMF4KN4AZrAlsj6DxI/edit?usp=sharing){target=_blank} |
 | 1004 |	Writing workshop |  [_2nd draft book review due_](writing/review.md#second-draft)<br><br>[DROPBOX](https://forms.gle/zJEGbrAwA4iqccjC8){target=_blank} |  
-| 1006 |	Library with Ryan Clement (am)<br> _Begin literature review assignment_ (pm)  | |
+| <mark>1005</mark> | | [Prep for library due Wed by 5pm](https://forms.gle/25qQFjWFM7Wxkurt5){target=_blank} |
+| 1006 |	Library with Ryan Clement | |
 | 1011 | Guidelines for Middlebury College: A handbook for Campus Development	 | [_Final draft book review due_](writing/review.md#final-draft) |
 | 1013 | Middlebury College Master Plan (2000 & 2007)<br>_Field activity_ | _Discussion prep_ |
 | 1018 |  Writing workshop | _1st draft due_|
