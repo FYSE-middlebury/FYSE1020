@@ -17,25 +17,28 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 | 1004 |	Writing workshop |  [_2nd draft book review due_](writing/review.md#second-draft)<br><br>[DROPBOX](https://forms.gle/zJEGbrAwA4iqccjC8){target=_blank} |  
 | <mark>1005</mark> | | [Prep for library due Wed by 5pm](https://forms.gle/25qQFjWFM7Wxkurt5){target=_blank} |
 | 1006 |	Library with Ryan Clement | |
-| 1011 | Guidelines for Middlebury College: A handbook for Campus Development	 | [_Final draft book review due_](writing/review.md#final-draft) |
-| 1013 | Middlebury College Master Plan (2000 & 2007)<br>_Field activity_ | _Discussion prep_ |
-| 1018 |  Writing workshop | _1st draft due_|
-| 1020 |  Special collections (am) | _Final draft due_ |
 | | | |
 | PART 2        | COMMUNITY TRANSECTS |
 | | | |
-| 1025	        | Natural history of Middlebury | _Introduce figure narrative assignment_ |  
-| 1027          | Abenaki land use | _Discussion prep_ |
-| 1101          | Drafting a conservation plan for college lands | _Discussion prep_  |
+| 1011 | Discussion of literature review assignment	 | [_Final draft book review due_](writing/review.md#final-draft) |
+| 1013 | News stories discussion<br>_Local site visits_ | _Discussion prep_ |
+| 1018 |  Writing workshop | _1st draft literature review due_|
+| 1020 |  Special collections (am) | _Peer reviews due_ |
+| | | |
+| PART 3        | LAND TRANSECTS |
+| | | |
+| 1025	        | Introduction to third assignment | _Final draft literature review due_ |  
+| 1027          | Natural history of Middlebury<br>_Field activity_ | _Discussion prep_ |
+| 1101          | Abenaki land use | _Discussion prep_  |
 | 1103          | Natural resource inventory for valley lands<br>_Field activity_ | _Discussion prep_ |
-| 1108          | Case study: South Street Solar Siting | _Discussion prep_ |
-| 1110          | Case study: South Street Solar PUC Review<br>_Field activity_ | _Discussion prep_ |
-| 1115          | Case study: Otter Creek childcare | _Discussion prep_ |
-| 1117          | Case study: Seminar Street housing<br>_Field activity_ | _Figure narrative due_ |
+| 1108          | College lands planning (1)| _Discussion prep_ |
+| 1110          | College lands planning (2)<br>_Field activity_ | _Discussion prep_ |
+| 1115          | College lands planning (3) | _Discussion prep_ |
+| 1117          | College lands planning (4)<br>_Field activity_ | _Narrative due_ |
 | 1122          | :maple_leaf: |
 | 1124          | :turkey: |
 | | |
-| PART 3        | COMMUNITY PRESENTATIONS |
+| PART 4        | COMMUNITY PRESENTATIONS |
 | | |
 | 1129          | Symposium planning | _Discussion prep_ |
 | 1201          | Multimedia principles<br> Multimedia lab | _Lab activity_ |
