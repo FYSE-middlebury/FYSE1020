@@ -20,7 +20,7 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 | | | |
 | PART 2        | COMMUNITY TRANSECTS |
 | | | |
-| 1011 | Discussion of literature review assignment	 | [_Final draft book review due_](writing/review.md#final-draft) |
+| 1011 | Discussion of literature review assignment	 | [_Final draft book review due_](writing/review.md#final-draft)<br><br>[DROPBOX](https://forms.gle/X4stbv6HKa2WZtSx5){target=_blank} |
 | 1013 | News stories discussion<br>_Local site visits_ | _Discussion prep_ |
 | 1018 |  Writing workshop | _1st draft literature review due_|
 | 1020 |  Special collections (am) | _Peer reviews due_ |
