@@ -63,4 +63,12 @@ On Tuesday October 11 we will discuss how to adapt these guides for this assignm
 
 #### Citation guide  
 
-- [Middlebury library guide](https://middlebury.libguides.com/citation){target=_blank}   
+- [Middlebury library guide](https://middlebury.libguides.com/citation){target=_blank}
+
+### First draft (10/25)    
+
+This draft should outline your essay:   
+
+1. Start with a description of your local case.  
+2. Identify the broader theme(s).
+3. Connect to academic research on these themes and/or compare and contrast with other examples discussed in academic literature.      

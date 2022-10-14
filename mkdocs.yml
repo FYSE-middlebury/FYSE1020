@@ -136,11 +136,11 @@ nav:
     - Letter to future self: writing/letter.md
     - Book review: writing/review.md
     - Literature review: writing/lit_review.md
-    - Narrating graphics: writing/graphics.md
+    - Narrating graphics: writing/narrate_graphics.md
     - Multimedia presentation: writing/presentation.md
   - Other tasks:
     - Image interpretation: tasks/image.md
-    - What are learning objectives?: tasks/learning-objectives-discussion.md
+  #   - What are learning objectives?: tasks/learning-objectives-discussion.md
 
 
 
