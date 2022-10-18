@@ -22,8 +22,8 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 | | | |
 | 1011 | Discussion of literature review assignment	 | [_Final draft book review due_](writing/review.md#final-draft)<br><br>[DROPBOX][1011]{target=_blank} |
 | 1013 | _Local sites visit_ | |
-| 1018 |  Writing workshop | [_1st draft literature review due_](writing/lit_review.md)<br><br>[DROPBOX][1018]{target=_blank}|
-| 1020 |  Special collections (am) | _Peer reviews due_<br>_Discuss revisions_ |
+| 1018 |  [Writing workshop][101802]| [_1st draft literature review due_](writing/lit_review.md)<br><br>[DROPBOX][1018]{target=_blank} |
+| 1020 |  Special collections tour (am) | [DROPBOX][1018]{target=_blank} <br><br> *Short excursion west* |
 | | | |
 | PART 3        | LAND TRANSECTS |
 | | | |
@@ -59,6 +59,8 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 [1011]: https://forms.gle/X4stbv6HKa2WZtSx5  
 
 [1018]: https://docs.google.com/forms/d/e/1FAIpQLSdbBoL4D65F6851Dt4ZB5HacBuyHnPsNgBkkH6XAG0bchpuiQ/viewform?usp=sf_link
+
+[101802]: writing/lit_review.md#writing-workshop
 
 [1025]: https://docs.google.com/forms/d/e/1FAIpQLScj9nzENZB1qbvX-LJuWXPzl1_HMzDLfZ4zxVwfJw_6C3mBmw/viewform?usp=sharing
 
