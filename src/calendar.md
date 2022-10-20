@@ -23,7 +23,7 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 | 1011 | Discussion of literature review assignment	 | [_Final draft book review due_](writing/review.md#final-draft)<br><br>[DROPBOX][1011]{target=_blank} |
 | 1013 | _Local sites visit_ | |
 | 1018 |  [Writing workshop][101802]| [_1st draft literature review due_](writing/lit_review.md)<br><br>[DROPBOX][1018]{target=_blank} |
-| 1020 |  Special collections tour (am) | [DROPBOX][1018]{target=_blank} <br><br> *Short excursion west* |
+| 1020 |  Special collections tour (am)<br>Writing workshop (pm) | [DROPBOX][1018]{target=_blank} |
 | | | |
 | PART 3        | LAND TRANSECTS |
 | | | |
