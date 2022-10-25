@@ -95,7 +95,7 @@ markdown_extensions:
   - markdown.extensions.meta
   - markdown.extensions.toc:
       permalink: false
-      toc_depth: 0
+      toc_depth: 2
   - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
@@ -136,7 +136,7 @@ nav:
     - Letter to future self: writing/letter.md
     - Book review: writing/review.md
     - Literature review: writing/lit_review.md
-    - Narrating graphics: writing/narrate_graphics.md
+    - Narrative with graphics: writing/narrative_graphics.md
     - Multimedia presentation: writing/presentation.md
   - Other tasks:
     - Image interpretation: tasks/image.md
