@@ -1,3 +1,5 @@
+##Introduction
+
 For this assignment, you will collaboratively write a short (1000 - 1500 word) narrative that contextualizes and extends a [natural resource inventory](https://drive.google.com/file/d/1GCJ4sCPexdFn0Pl6MrnAFoH5eCK-VXNO/view?usp=sharing ){target=_blank} of Middlebury College Lands in the Champlain Valley. Practically, your contribution should help inform decisions and recommendations of a forthcoming management plan for Middlebury College Lands.    
 
 This assignment aims to sharpen your skills for conducting and synthesizing previous research, writing about academic and professional knowledge for a general audience, and writing narratives to help readers interpret maps and data graphics.      
