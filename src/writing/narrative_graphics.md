@@ -1,18 +1,23 @@
 ##Introduction
 
-For this assignment, you will collaboratively write a short (1000 - 1500 word) narrative that contextualizes and extends a [natural resource inventory](https://drive.google.com/file/d/1GCJ4sCPexdFn0Pl6MrnAFoH5eCK-VXNO/view?usp=sharing ){target=_blank} of Middlebury College Lands in the Champlain Valley. Practically, your contribution should help inform decisions and recommendations of a forthcoming management plan for Middlebury College Lands.    
+For this assignment, you will collaboratively write a short (1000 - 1500 word) narrative that explores two questions:  
+
+1. How can college lands help people learn about the natural and human history of Middlebury?  
+
+2. How do college lands contribute to cultural and natural values that transcend the college community?   
+
+Practically, your contribution should help inform decisions and recommendations of a forthcoming management plan for Middlebury College Lands.     
 
 This assignment aims to sharpen your skills for conducting and synthesizing previous research, writing about academic and professional knowledge for a general audience, and writing narratives to help readers interpret maps and data graphics.      
 
 Working in a team of two to three students, you will:  
 
 1. research a topic,  
-2. develop research questions,
+2. develop a set of educational questions and learning objectives,
 2. write a background section that defines key words (jargon) and summarizes that state of knowledge on your topic,
 3. write a narrative that helps the reader interpret maps and data graphics (I will help you find the maps and charts to discuss).  
 
 Ideally, your writing will help people connect specific places in Middlebury to your research topic. You will also help give voice to the needs of under-represented communities (native plants, animals, and the habitats they require) in campus planning.    
-
 
 ##Topics  
 
@@ -51,3 +56,17 @@ Questions
 Towards a resource for learning place   
 
 - [Doc](https://docs.google.com/document/d/1-VmhrizyksETMlo4yQj5zANJ6J_l1Y1qGOZK-ZKxJMQ/edit?usp=sharing){target=_blank}
+
+##Discussion 11/08  
+
+Please search the [Middlebury Town Plan](https://cms5.revize.com/revize/middlebury/document_center/Planning%20Zoning/Middlebury-2017-Town-Plan.pdf){target=_blank} for key words associated with your topic and answer these questions:  
+
+- How does the plan represent your topic?  
+- How does the Town Plan describe the values of your topic?  
+- What specific places does the Town Plan identify with these values?  
+- Where do these values overlap college lands?  
+
+Please also search the [Middlebury College Master Plan](https://drive.google.com/file/d/1Oiv7XVlOQetrJLfz6IFFqlFV1EigegVV/view?usp=sharing){target=_blank} for key words associated with your topic and answer these questions:  
+
+- How does the master plan describe the values of your topic?  
+- What specific places does the master plan identify with these values?  
