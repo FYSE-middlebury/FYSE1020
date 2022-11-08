@@ -35,7 +35,7 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 | 1110          | Site visits (1)<br>_(weather permitting)_ | |
 | 1115          | Lightning updates | _Group prep_ |
 | 1117          | Site visits (2)<br>_(weather permitting)_  | |
-| 1118          |  | _First draft of narrative due_ |
+| 1118          |  | _First rough draft of narrative due_ |
 | 1122          | :maple_leaf: |
 | 1124          | :turkey: |
 | | |

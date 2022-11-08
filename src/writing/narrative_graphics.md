@@ -1,10 +1,14 @@
 ##Introduction
 
-For this assignment, you will collaboratively write a short (1000 - 1500 word) narrative that explores two questions:  
+For this assignment, you will collaboratively write a short (1000 - 1500 word) narrative that explores these kinds of questions:  
 
 1. How can college lands help people learn about the natural and human history of Middlebury?  
 
 2. How do college lands contribute to cultural and natural values that transcend the college community?   
+
+3. How do human values of lands differ geographically, chronologically, and thematically?  
+
+These are starter questions that you are free to adapt and amend.  
 
 Practically, your contribution should help inform decisions and recommendations of a forthcoming management plan for Middlebury College Lands.     
 
@@ -59,14 +63,45 @@ Towards a resource for learning place
 
 ##Discussion 11/08  
 
+The goal today is to explore comparative frameworks for analysis of your college land topic.  
+
+- _Geographic_: compare and contrast town and college.
+- _Chronological_: compare and contrast one topic over time.  
+- _Thematic_: compare and contrast two or more topics (_we will do this collectively when we develop the symposium presentation_).     
+
+My intention here is not to overwhelm you, but rather to encourage strategies for mining information quickly from multiple sources as source material for interesting writing.  
+
+###Town Plan  
+
+Please create a new header in your document that is shared with me in the _resources_ drive named: 'Town Plan'.   
+
 Please search the [Middlebury Town Plan](https://cms5.revize.com/revize/middlebury/document_center/Planning%20Zoning/Middlebury-2017-Town-Plan.pdf){target=_blank} for key words associated with your topic and answer these questions:  
 
-- How does the plan represent your topic?  
-- How does the Town Plan describe the values of your topic?  
-- What specific places does the Town Plan identify with these values?  
+- Is your topic represented in the Town Plan? (Please keep track of important pages.)  
+- How does the Town Plan frame values of your topic?  
+- What specific places in Middlebury does the Town Plan associate with these values?  
 - Where do these values overlap college lands?  
 
-Please also search the [Middlebury College Master Plan](https://drive.google.com/file/d/1Oiv7XVlOQetrJLfz6IFFqlFV1EigegVV/view?usp=sharing){target=_blank} for key words associated with your topic and answer these questions:  
 
-- How does the master plan describe the values of your topic?  
-- What specific places does the master plan identify with these values?  
+###College Plans  
+
+Please create a new header in your document named: 'College Plans'.  
+
+Then please search these College resources for key words associated with your topic:  
+
+- [Ecological Stewardship of College Lands](https://drive.google.com/file/d/1v87djmVVbuYavgJqc4smtb_PXmcmeIHi/view?usp=share_link){target=_blank}  
+- [Middlebury College Master Plan 2008](https://drive.google.com/file/d/1Oiv7XVlOQetrJLfz6IFFqlFV1EigegVV/view?usp=sharing){target=_blank}  
+- [Middlebury College Master Plan Update 2017](https://drive.google.com/file/d/1XL26rIn97uuNj6BjDNmK3hybBFR6Xez2/view?usp=share_link){target=_blank}  
+- [Designing a Model Landscape for Multiple Values](https://drive.google.com/file/d/1x3RhXfjpzcCxNjjhqqU6jBsO16jakFE4/view?usp=share_link){target=_blank}  
+- [Middlebury College Land Acknowledgement](https://www.middlebury.edu/office/about/middlebury-land-acknowledgment){target=_blank}  
+
+
+Then please write answers to these questions in your document:  
+
+- Is your topic represented in these documents? (Please keep track of source and important pages.)  
+- How do these documents frame values of your topic?  
+- How do the values and discussion of your topic differ between College and Town documents (compare/contrast)?    
+- What specific places on college lands do these documents associate with these values?  
+- Can you compare and contrast the discussion of your topic over time?    
+
+Please use the class time today to get started on this. We will discuss briefly at the end of today's session and then share findings in class on 11/15.  
