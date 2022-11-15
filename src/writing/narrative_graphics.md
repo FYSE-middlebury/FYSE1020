@@ -95,7 +95,6 @@ Then please search these College resources for key words associated with your to
 - [Designing a Model Landscape for Multiple Values](https://drive.google.com/file/d/1x3RhXfjpzcCxNjjhqqU6jBsO16jakFE4/view?usp=share_link){target=_blank}  
 - [Middlebury College Land Acknowledgement](https://www.middlebury.edu/office/about/middlebury-land-acknowledgment){target=_blank}  
 
-
 Then please write answers to these questions in your document:  
 
 - Is your topic represented in these documents? (Please keep track of source and important pages.)  
@@ -105,3 +104,18 @@ Then please write answers to these questions in your document:
 - Can you compare and contrast the discussion of your topic over time?    
 
 Please use the class time today to get started on this. We will discuss briefly at the end of today's session and then share findings in class on 11/15.  
+
+##Discussion 11/15  
+
+- _quick registration checks_    
+- [Land before you atlas](https://jhowarth.users.earthengine.app/view/middlebury-college-lands){target=_blank}  
+- _What additional layers would help you tell your story?_  
+- _Field trip recap_  
+
+By the end of 11/17 meeting, please be prepared to share your:    
+
+- guiding questions  
+- key terms
+- your theme's time line   
+- your theme's geography  
+- compare/contrast values between town and college communities     
