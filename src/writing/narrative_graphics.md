@@ -118,4 +118,5 @@ By the end of 11/17 meeting, please be prepared to share your:
 - key terms
 - your theme's time line   
 - your theme's geography  
-- compare/contrast values between town and college communities     
+- compare/contrast values between town and college communities   
+- references    
