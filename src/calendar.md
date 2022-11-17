@@ -35,7 +35,7 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 | 1110          | Site visits (1)<br>_(weather permitting)_ | |
 | 1115          | Lightning updates | _Group prep_ |
 | 1117          | Site visits (2)<br>_(weather permitting)_  | |
-| 1118          |  | _First rough draft of narrative due_ |
+| 1118          |  | _First rough draft of narrative due_<br><br>[DROPBOX][1118]{target=_blank} |
 | 1122          | :maple_leaf: |
 | 1124          | :turkey: |
 | | |
@@ -68,5 +68,7 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 [1101]: https://drive.google.com/file/d/1GCJ4sCPexdFn0Pl6MrnAFoH5eCK-VXNO/view?usp=sharing  
 
 [1108]: https://cms5.revize.com/revize/middlebury/document_center/Planning%20Zoning/Middlebury-2017-Town-Plan.pdf  
+
+[1118]: https://docs.google.com/forms/d/e/1FAIpQLSdjQLA1fZXCWtjxJCEjvlM_Rc-nmMme-XBjQLEcgYHtSSSI6A/viewform?usp=sf_link
 
 [1129]: http://hilt.harvard.edu/wp-content/uploads/2018/08/HILT_SpeakerSeries_Mayer_background_reading.pdf
