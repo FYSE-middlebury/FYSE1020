@@ -41,7 +41,7 @@ The table below outlines topics, guiding research questions, and seed readings. 
 
 Please see the [calendar](../calendar.md) for the schedule. For the first two weeks, each group will meet with me for 20 minutes to discuss tasks and progress during our morning or afternoon meeting times. Weather permitting, we will visit field sites on 11/10 and 11/17. Each group will be expected to discuss information from their research that contextualizes the sites we visit. On 11/18, the first draft of the written narrative will be due (before Thanksgiving break).     
 
-##Discussion 11/01  
+##1101 Discussion    
 
 Reading: [Lapin-et-al (2015)](https://drive.google.com/file/d/1GCJ4sCPexdFn0Pl6MrnAFoH5eCK-VXNO/view){target=_blank}  
 
@@ -61,7 +61,7 @@ Towards a resource for learning place
 
 - [Doc](https://docs.google.com/document/d/1-VmhrizyksETMlo4yQj5zANJ6J_l1Y1qGOZK-ZKxJMQ/edit?usp=sharing){target=_blank}
 
-##Discussion 11/08  
+##1108 Discussion    
 
 The goal today is to explore comparative frameworks for analysis of your college land topic.  
 
@@ -105,7 +105,7 @@ Then please write answers to these questions in your document:
 
 Please use the class time today to get started on this. We will discuss briefly at the end of today's session and then share findings in class on 11/15.  
 
-##Discussion 11/15  
+##1115 Discussion   
 
 - _quick registration checks_    
 - [Land before you atlas](https://jhowarth.users.earthengine.app/view/middlebury-college-lands){target=_blank}  
