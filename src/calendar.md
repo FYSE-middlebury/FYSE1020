@@ -42,9 +42,9 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 | PART 4        | COMMUNITY PRESENTATIONS |
 | | |
 | 1129          | [Multimedia principles][1129d] | [_Reading_][1129]{target=_blank} |
-| 1201          | Multimedia workshop | _Group prep_ |
-| 1206          | Lightning updates | _Group prep_ <br><br>_Second draft of narrative due_|
-| 1208          | Presentation workshop | _Presentation practice_ |
+| 1201          | [Presentation guidelines][1201d] | _Group prep_ |
+| 1206          | Lightning updates | _Group prep_ |
+| 1208          | Presentation workshop | _Presentation practice_ <br><br>_Second draft of narrative due_ |
 | 1209          | First Year symposium |
 
 [0906]: https://docs.google.com/spreadsheets/d/1gGNkSNEeK4OoUGTZX0TrPWZQIcDbDBXsQImAaenc6sE/edit?usp=sharing
@@ -79,4 +79,6 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 
 [1129]: http://hilt.harvard.edu/wp-content/uploads/2018/08/HILT_SpeakerSeries_Mayer_background_reading.pdf
 
-[1129d]: writing/presentation.md#1129-multimedia-principles
+[1129d]: writing/presentation.md#multimedia-principles
+
+[1201d]: writing/presentation.md#presentation-guidelines    
