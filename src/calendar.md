@@ -44,7 +44,7 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 | 1129          | [Multimedia principles][1129d] | [_Reading_][1129]{target=_blank} |
 | 1201          | [Presentation guidelines][1201d] | _Group prep_ |
 | 1206          | Lightning updates | _Group prep_ |
-| 1208          | Presentation workshop | _Presentation practice_ <br><br>_Second draft of narrative due_ |
+| 1208          | Presentation workshop | _Presentation practice_ <br><br>_Second draft of narrative due_<br><br>[Project self-evaluation][1208]{target=_blank} |
 | 1209          | First Year symposium |
 
 [0906]: https://docs.google.com/spreadsheets/d/1gGNkSNEeK4OoUGTZX0TrPWZQIcDbDBXsQImAaenc6sE/edit?usp=sharing
@@ -82,3 +82,5 @@ _Please note: I will add links for tasks to this calendar as the semester progre
 [1129d]: writing/presentation.md#multimedia-principles
 
 [1201d]: writing/presentation.md#presentation-guidelines    
+
+[1208]: https://docs.google.com/document/d/1sjsZsNTglt08VqPC-y9c4LsZlEah-IRRW4gYeVk7t7Y/edit?usp=sharing  
