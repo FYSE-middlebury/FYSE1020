@@ -41,9 +41,9 @@ Here are some facts about the symposium and our session. I think of these as des
 
 - There are 20 seminars scheduled to present during the symposium (there were 44 FY seminars offered this semester)
 
-- Our session begins at 6:30pm.
+- Our session begins at 6:00 pm.
 
-- Our session is in Axinn 220.
+- Our session is in Axinn 219.
 
 - There are two other seminars that will be presenting in our session:
 
